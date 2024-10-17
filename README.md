@@ -14,7 +14,7 @@
  
  🌱  ****
 
-💬 Ask me anything [here] (https://github.com/Cann-E/Cann-E/issues)**
+💬 Ask me anything [here](https://github.com/Cann-E/Cann-E/issues)**
 
 ⚡
 
