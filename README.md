@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cann-E.Cann-E" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Can+Ercan!;" />
 </h1>
 
-<h3 align="center">A  software developer from Houston
+<h3 align="center">A Full Stack Developer from Houston-Tx USA</h3>
 
 <br/>
 
