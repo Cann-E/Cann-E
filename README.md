@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cann-E.Cann-E" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Can+Ercan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Can+Ercan!;" />
 </h1>
 
 <h3 align="center">A Full Stack Developer from Houston-Tx USA</h3>
@@ -16,7 +16,7 @@
 
 💬 Ask me about **1, 2, 3... or anything [here](https://github.com/Cann-E/Cann-E/issues)**
 
-⚡ Fun fact **_**
+⚡
 
  </div>
  
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgres,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,discord,unreal,unity" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgres,mongodb,sqlite,c,cpp,java,mysql" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cann-E/Cann-E/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
