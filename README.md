@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **_**
+ 🔭 I’m currently working on **Enterprise Database Application**
  
- 🌱 I’m currently learning **_**
+ 🌱  **_**
 
-💬 Ask me about **1, 2, 3... or anything [here](https://github.com/Cann-E/Cann-E/issues)**
+💬 Ask me anything [here](https://github.com/Cann-E/Cann-E/issues)**
 
 ⚡
 
