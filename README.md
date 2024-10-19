@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Can+Ercan!;" />
 </h1>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Cann-E/Cann-E/Can-Main/photo-1515879218367-8466d910aaa4.jpeg" />
+
+
+
+
 <h3 align="center">A Full Stack Developer from Houston-Tx USA</h3>
 
 <br/>
@@ -35,6 +40,7 @@ An Enterprise Database Application**
 
  <hr/>
  
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -45,7 +51,7 @@ An Enterprise Database Application**
 <br/>
 <hr/>
 
-<div align="center">
+<h2 style="text-allign: left;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cann-E/Cann-E/output/github-contribution-grid-snake.svg" />
