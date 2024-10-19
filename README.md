@@ -64,6 +64,8 @@ An Enterprise Database Application**
 <h2 style="text-align: center;">⚡ Stats ⚡</h2>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+
+    
   <!-- GitHub Streak Stats -->
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cann-E&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
   
