@@ -90,3 +90,8 @@ An Enterprise Database Application**
 </div>
 
 <br/>
+
+<div align="center">
+  <img alt="Coding GIF" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZxOXY1aWFjMmpydnhiazN1dzBpemxkYXlxM3B1NTZmcmNpM21weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+</div>
+
