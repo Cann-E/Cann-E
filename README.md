@@ -13,11 +13,11 @@
  🔭 I’m currently working on **Web App for
 An Enterprise Database Application**
  
- 🌱  **________** 🌱
+ 🌱  Web Page Coming Soon! **** 🌱
 
-💬 Ask me anything [here](https://github.com/Cann-E/Cann-E/issues)**
+💬 Ask me anything! [here](https://github.com/Cann-E/Cann-E/issues)**
 
-⚡
+⚡!
 
  </div>
  
@@ -38,8 +38,8 @@ An Enterprise Database Application**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,discord,unreal,unity" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgres,mongodb,sqlite,c,cpp,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,discord,ai,linux" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,postgres,sqlite,mysql" /><br>
 </div>
 
 <br/>
@@ -55,14 +55,22 @@ An Enterprise Database Application**
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cann-E&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<h2 style="text-align: center;">⚡ Stats ⚡</h2>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Cann-E&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <!-- GitHub Streak Stats -->
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cann-E&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Cann-E&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+  <!-- LeetCode Badge -->
+  <img width="390" src="https://leetcode-badge-sage.vercel.app/badge/neetcode?theme=dark" alt="LeetCode Badge" />
+
+  <!-- Most Used Languages -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
 </div>
 
 <br/><br/>
