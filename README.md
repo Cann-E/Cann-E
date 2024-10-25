@@ -18,7 +18,7 @@
  🔭 I’m currently working on **Web App for
 An Enterprise Database Application**
  
- 🌱  Web Page Coming Soon! **__** 🌱
+ 🌱  Web Page Coming Soon! **___** 🌱
 
 💬 Ask me anything!! [here](https://github.com/Cann-E/Cann-E/issues)**
 
