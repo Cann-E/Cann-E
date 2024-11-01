@@ -74,8 +74,7 @@ An Enterprise Database Application**
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-  <!-- LeetCode Badge -->
-  <img width="390" src="https://leetcode-badge-sage.vercel.app/badge/neetcode?theme=dark" alt="LeetCode Badge" />
+ 
 
   <!-- Most Used Languages -->
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
