@@ -22,7 +22,7 @@ An Enterprise Database Application**
 
 💬 Ask me anything!! [here](https://github.com/Cann-E/Cann-E/issues)**
 
-⚡!
+⚡!!
 
  </div>
  
