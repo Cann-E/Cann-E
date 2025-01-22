@@ -42,11 +42,15 @@ An Enterprise Database Application**
  
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,discord,ai,linux" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,postgres,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=r,discord,ai,linux" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,postgres,mysql,flask" />
 </div>
+
 
 <br/>
 <hr/>
