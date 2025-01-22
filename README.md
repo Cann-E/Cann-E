@@ -45,7 +45,7 @@ An Enterprise Database Application**
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,discord,ai,linux" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,postgres,sqlite,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,postgres,sqlite,mysql,flask" /><br>
 </div>
 
 <br/>
