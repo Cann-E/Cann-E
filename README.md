@@ -86,10 +86,9 @@
 <br />
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Cann-E">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Cann-E&count_private=true&theme=react&border_radius=15" alt="GitHub Streak Stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Cann-E&theme=react&border_radius=15" alt="GitHub Streak Stats" />
   </a>
 
   <!-- GitHub Stats -->
@@ -99,10 +98,10 @@
 
   <!-- Most Used Languages -->
   <a href="https://github.com/Cann-E">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cann-E&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cann-E&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15" alt="Most Used Languages" />
   </a>
-
 </div>
+
 
 <br/><br/>
 
