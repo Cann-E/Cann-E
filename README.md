@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 Currently exploring model development and deployment pipelines for Machine Learning applications, with a focus on scalability and real-world integration. 🚀
+ ✨ Building scalable ML architectures with automated hyperparameter tuning, model quantization, and deployment optimizations for production environments.
  
  🌱  Web Page Coming Soon! **_____** 🌱
 
