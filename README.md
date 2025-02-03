@@ -56,19 +56,25 @@
 <hr/>
 
 <h2 align="center">🚀 Featured Projects 🚀</h2>
-<br/>
+<br />
 
-<div align="center">
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Project 1 -->
   <a href="https://github.com/Cann-E/Restaurant_Chain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Restaurant_Chain&theme=react&border_radius=15" alt="Restaurant Chain" />
   </a>
 
-
+  <!-- Project 2 -->
   <a href="https://github.com/Cann-E/Python_Exercises_TA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Python_Exercises_TA&theme=react&border_radius=15" alt="Python Exercises TA" />
   </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/Cann-E/Snake-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Snake-Game&theme=react&border_radius=15" alt="Snake Game" />
+  </a>
 </div>
+
 
 
 <hr/>
