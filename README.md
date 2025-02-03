@@ -59,13 +59,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Cann-E/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Project1&theme=react&border_radius=15" alt="Project 1" />
+
+  <a href="https://github.com/Cann-E/Restaurant_Chain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Restaurant_Chain&theme=react&border_radius=15" alt="Restaurant Chain" />
   </a>
-  <a href="https://github.com/Cann-E/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Project2&theme=react&border_radius=15" alt="Project 2" />
+
+
+  <a href="https://github.com/Cann-E/Python_Exercises_TA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Python_Exercises_TA&theme=react&border_radius=15" alt="Python Exercises TA" />
   </a>
 </div>
+
 
 <hr/>
 
