@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cann-E.Cann-E" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Can+Ercan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&color=F7B42C&lines=Hey!+👋;+I'm+Can+Ercan!;Full+Stack+Developer!;Machine+Learning+Enthusiast!;Building+Scalable+AI+Solutions!;Always+Learning+🚀;" />
+
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Cann-E/Cann-E/Can-Main/photo-1515879218367-8466d910aaa4.jpeg" />
