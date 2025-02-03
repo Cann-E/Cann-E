@@ -41,15 +41,21 @@
  <hr/>
  
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️✨ Tech Stack & Tools ✨⚒️</h2>
 <br />
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,flask,postgres,mysql" />
     <br />
-    <img src="https://skillicons.dev/icons?i=r,discord,ai,linux" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,linux" />
     <br />
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,postgres,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ai,fastapi,discord" />
 </div>
+
+
+
+
+
 
 
 <br/>
@@ -65,21 +71,28 @@
 
 <hr/>
 
-<h2 style="text-align: center;">⚡ Stats ⚡</h2>
+<h2 align="center">⚡✨ GitHub Stats ✨⚡</h2>
+<br />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- GitHub Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Cann-E&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-
+  <a href="https://github.com/Cann-E">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Cann-E&count_private=true&theme=react&border_radius=15" alt="GitHub Streak Stats" />
+  </a>
 
   <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Cann-E&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <a href="https://github.com/Cann-E">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Cann-E&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats" />
+  </a>
 
   <!-- Most Used Languages -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cann-E&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
+  <a href="https://github.com/Cann-E">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cann-E&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
+  </a>
 
 </div>
+
 
 
 <br/><br/>
