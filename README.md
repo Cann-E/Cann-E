@@ -15,8 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web App for
-An Enterprise Database Application**
+ 🔭 Currently exploring model development and deployment pipelines for Machine Learning applications, with a focus on scalability and real-world integration. 🚀
  
  🌱  Web Page Coming Soon! **_____** 🌱
 
