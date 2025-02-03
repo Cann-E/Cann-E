@@ -2,45 +2,37 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&color=F7B42C&lines=Hey!+👋;+I'm+Can+Ercan!;Full+Stack+Developer!;Machine+Learning+Enthusiast!;Building+Scalable+AI+Solutions!;Always+Learning+🚀;" />
-
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Cann-E/Cann-E/Can-Main/photo-1515879218367-8466d910aaa4.jpeg" />
 
-
-
-
 <h3 align="center">A Full Stack Developer from Houston-Tx USA</h3>
-
 <br/>
 
 <div align="center">
- 
  ✨ Building scalable ML architectures with automated hyperparameter tuning, model quantization, and deployment optimizations for production environments.
- 
+ <br/>
  🌱  Web Page Coming Soon! **_____** 🌱
+ <br/>
+ 💬 Ask me anything!! [here](https://github.com/Cann-E/Cann-E/issues)
+ <br/>
+ ⚡!!
+</div>
 
-💬 Ask me anything!! [here](https://github.com/Cann-E/Cann-E/issues)**
-
-⚡!!
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:cann0211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/can-ercan1102/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://Cann-E.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
- 
+<hr/>
+
 <h2 align="center">⚒️✨ Tech Stack & Tools ✨⚒️</h2>
 <br />
 
@@ -52,21 +44,36 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ai,fastapi,discord" />
 </div>
 
-
-
-
-
-
-
-<br/>
 <hr/>
 
-<h2 style="text-allign: left;">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
+
+<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cann-E/Cann-E/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Cann-E/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Project1&theme=react&border_radius=15" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Cann-E/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Project2&theme=react&border_radius=15" alt="Project 2" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">📊 Contribution Activity 📊</h2>
+<br/>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cann-E&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <hr/>
@@ -93,8 +100,6 @@
 
 </div>
 
-
-
 <br/><br/>
 
 <hr/>
@@ -110,4 +115,3 @@
 <div align="center">
   <img alt="Coding GIF" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZxOXY1aWFjMmpydnhiazN1dzBpemxkYXlxM3B1NTZmcmNpM21weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 </div>
-
