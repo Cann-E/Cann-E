@@ -70,7 +70,8 @@ An Enterprise Database Application**
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
   <!-- GitHub Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cann-E&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Cann-E&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+
 
   <!-- GitHub Stats -->
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Cann-E&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
