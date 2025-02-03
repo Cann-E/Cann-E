@@ -12,9 +12,9 @@
 <div align="center">
  ✨ Building scalable ML architectures with automated hyperparameter tuning, model quantization, and deployment optimizations for production environments.
  <br/>
- 🌱  Web Page Coming Soon! **_____** 🌱
+
  <br/>
- 💬 Ask me anything!! [here](https://github.com/Cann-E/Cann-E/issues)
+ 💬 Ask me anything!! (https://github.com/Cann-E/Cann-E/issues)
  <br/>
  ⚡!!
 </div>
