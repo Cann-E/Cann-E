@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Cann-E/Cann-E/Can-Main/photo-1515879218367-8466d910aaa4.jpeg" />
 
-<h3 align="center">A Full Stack Developer from Houston-Tx USA</h3>
+<h3 align="center">Full Stack Developer</h3>
 <br/>
 
 <div align="center">
