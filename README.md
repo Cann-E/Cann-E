@@ -37,11 +37,11 @@
 <br />
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,flask,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,django,postgres" />
     <br />
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,linux" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode" />
     <br />
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ai,fastapi,discord" />
+    <img src="https://skillicons.dev/icons?i=ai,discord,github,linux" />
 </div>
 
 <hr/>
