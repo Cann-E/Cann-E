@@ -73,6 +73,11 @@
   <a href="https://github.com/Cann-E/Snake-Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Snake-Game&theme=react&border_radius=15" alt="Snake Game" />
   </a>
+
+  <!-- Project 4 -->
+  <a href="https://github.com/Cann-E/Python_Exercises_TA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Python_Exercises_TA&theme=react&border_radius=15" alt="Python Exercises TA" />
+  </a>
 </div>
 
 
