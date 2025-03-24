@@ -65,7 +65,7 @@
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/Cann-E/Python_Exercises_TA">
+  <a href="https://github.com/Cann-E/JavaScript_Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=JavaScript_Projects&theme=react&border_radius=15" alt="JavaScript Projects" />
   </a>
 
