@@ -66,7 +66,7 @@
 
   <!-- Project 2 -->
   <a href="https://github.com/Cann-E/Python_Exercises_TA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=JavaScript_Projects&theme=react&border_radius=15" alt="Python Exercises TA" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=JavaScript_Projects&theme=react&border_radius=15" alt="JavaScript Projects" />
   </a>
 
   <!-- Project 3 -->
