@@ -60,23 +60,23 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Project 1 -->
-  <a href="https://github.com/Cann-E/Restaurant_Chain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Restaurant_Chain&theme=react&border_radius=15" alt="Restaurant Chain" />
+  <a href="https://github.com/Cann-E/OmniDine_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=OmniDine_System&theme=react&border_radius=15" alt="OmniDine System" />
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/Cann-E/JavaScript_Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=JavaScript_Projects&theme=react&border_radius=15" alt="JavaScript Projects" />
+  <a href="https://github.com/Cann-E/Delta-V2-Verisys-Core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Delta-V2-Verisys-Core&theme=react&border_radius=15" alt="Verisys-Core" />
   </a>
 
   <!-- Project 3 -->
-  <a href="https://github.com/Cann-E/Snake-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Snake-Game&theme=react&border_radius=15" alt="Snake Game" />
+  <a href="https://github.com/Cann-E/Retro_Snake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Retro_Snake&theme=react&border_radius=15" alt="Retro Snake" />
   </a>
 
   <!-- Project 4 -->
-  <a href="https://github.com/Cann-E/Python_Exercises_TA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Python_Exercises_TA&theme=react&border_radius=15" alt="Python Exercises TA" />
+  <a href="https://github.com/Cann-E/Retro_Space_Invaders">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Retro_Space_Invaders&theme=react&border_radius=15" alt="Retro Space Invaders" />
   </a>
 </div>
 
