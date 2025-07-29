@@ -75,8 +75,8 @@
   </a>
 
   <!-- Project 4 -->
-  <a href="https://github.com/Cann-E/Retro_Space_Invaders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Retro_Space_Invaders&theme=react&border_radius=15" alt="Retro Space Invaders" />
+  <a href="https://github.com/Cann-E/Image_Signal_Filtering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Image_Signal_Filtering&theme=react&border_radius=15" alt="ImageS ignal Filtering" />
   </a>
 </div>
 
