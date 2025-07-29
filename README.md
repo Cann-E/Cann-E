@@ -76,7 +76,7 @@
 
   <!-- Project 4 -->
   <a href="https://github.com/Cann-E/Image_Signal_Filtering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Image_Signal_Filterin&theme=react&border_radius=15" alt="ImageS ignal Filtering" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cann-E&repo=Image_Signal_Filtering&theme=react&border_radius=15" alt="ImageS ignal Filtering" />
   </a>
 </div>
 
